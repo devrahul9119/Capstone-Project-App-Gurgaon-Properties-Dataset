@@ -12,12 +12,6 @@ with open('datasets/df.pkl','rb') as file:
     df = pickle.load(file)
 
 with open('datasets/pipeline.pkl','rb') as file:
-=======
-with open('df.pkl','rb') as file:
-    df = pickle.load(file)
-
-with open('pipeline.pkl','rb') as file:
->>>>>>> origin/master
     pipeline = pickle.load(file)
 
 
