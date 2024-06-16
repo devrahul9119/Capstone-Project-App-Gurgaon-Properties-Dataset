@@ -4,7 +4,6 @@ st.set_page_config(
     page_title="Gurgaon Real Estate Analytics App",
     page_icon="👋",
 )
-import streamlit as st
 
 # Title
 st.title("Price Prediction on Gurgaon Flats and Properties Dataset")
