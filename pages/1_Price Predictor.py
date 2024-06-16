@@ -5,9 +5,6 @@ import numpy as np
 
 st.set_page_config(page_title="Viz Demo")
 
-
-
-<<<<<<< HEAD
 with open('datasets/df.pkl','rb') as file:
     df = pickle.load(file)
 
